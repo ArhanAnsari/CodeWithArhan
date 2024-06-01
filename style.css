@@ -316,3 +316,67 @@ footer .column p {
   font-weight: 500;
 }
 
+.contact-form-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 32px;
+  background: var(--background-2);
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.form-container {
+  max-width: 600px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.form-container h2 {
+  color: var(--foreground-1);
+  text-align: center;
+}
+
+#contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+#contact-form label {
+  font-size: 16px;
+  color: var(--foreground-2);
+}
+
+#contact-form input,
+#contact-form textarea {
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid var(--background-3);
+  background: var(--background-1);
+  color: var(--foreground-1);
+  font-size: 16px;
+}
+
+#contact-form input:focus,
+#contact-form textarea:focus {
+  border-color: var(--accent-2);
+  outline: none;
+}
+
+#contact-form button.cta {
+  padding: 12px 16px;
+  background: var(--accent-1);
+  color: var(--foreground-1);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background 0.3s ease;
+}
+
+#contact-form button.cta:hover {
+  background: var(--accent-2);
+}

@@ -46,7 +46,9 @@ $blogPosts = [
                 <a href="/index.php">Home</a>
                 <a href="/about.php">About</a>
                 <a href="/blog.php">Blog</a>
-                <a href="/contact.php">Contact</a>
+                <a href="/courses.php">Courses</a>
+                <a href="/tutorial.php">Tutorials</a>
+                <a href="/contact.php">Contact Us</a>
             </div>
         </div>
     </nav>

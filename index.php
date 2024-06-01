@@ -19,6 +19,8 @@
 
           <p class="name">CodeWithArhan</p>
 
+          <a href="/index.php">Home</a>
+
           <a href="/blog.php">Blog</a>
 
           <a href="/courses.php">Courses</a>
@@ -26,6 +28,8 @@
           <a href="/tutorials.php">Tutorials</a>
 
           <a href="/about.php">About</a>
+
+          <a href="/contact.php">Contact Us</a>
         </div>
 
         <div class="right">

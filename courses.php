@@ -44,6 +44,7 @@ $courses = [
                 <a href="/about.php">About</a>
                 <a href="/blog.php">Blog</a>
                 <a href="/courses.php">Courses</a>
+                <a href="/tutorials.php">Tutorials</a>
                 <a href="/contact.php">Contact</a>
             </div>
         </div>
