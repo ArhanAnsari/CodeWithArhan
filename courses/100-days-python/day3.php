@@ -63,12 +63,13 @@
 					<p>Similarly we can install other modules and look into their documentations for usage instructions.<br>
 					We will find ourselved doing this often in the later part of this course</p>
 
-	<iframe height="400px" width="100%" src="https://replit.com/@arhanansari2009/03-Day3-Modules-and-Pip?lite=true" scrolling="no"frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+	<iframe height="400px" width="100%" src="https://replit.com/@codewitharhan/03-Day3-Modules-and-Pip?lite=true" scrolling="no"frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 				<button class="cta" onclick="location.href='/courses/100-days-python/day2.php'">Previous</button>
 				<button class="cta" onclick="location.href='/courses/100-days-python/day4.php'">Next>></button>
 			</div>
 		</section>
 	</main>
+	<script src="script.js"></script>
 </body>
 
 </html>

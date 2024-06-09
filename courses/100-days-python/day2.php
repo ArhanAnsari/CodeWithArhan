@@ -65,7 +65,7 @@
 			</ul>
 			<p>The steps are very similar for Mac and Linux users as well. Simply download the installer and follow the steps shown above. </p>
 
-	<iframe height="400px" width="100%" src="https://replit.com/@arhanansari2009/02-Day2-Application-of-Python?lite=true" scrolling="no"frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+	<iframe height="400px" width="100%" src="https://replit.com/@codewitharhan/02-Day2-Application-of-Python?lite=true" scrolling="no"frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 				<button class="cta" onclick="location.href='/courses/100-days-python/day1.php'">Previous</button>
 				<button class="cta" onclick="location.href='/courses/100-days-python/day3.php'">Next>></button>
 			</div>

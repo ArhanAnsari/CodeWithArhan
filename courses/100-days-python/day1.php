@@ -151,7 +151,7 @@
 				<br>
 				<p>The download and Installation process are given in the next lesson.</p>
 
-	<iframe height="400px" width="100%" src="https://replit.com/@arhanansari2009/01-Day1-Intro-to-Python?lite=true" scrolling="no"frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+	<iframe height="400px" width="100%" src="https://replit.com/@codewitharhan/01-Day1-Intro-to-Python?lite=true" scrolling="no"frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 				<button class="cta"
 					onclick="location.href='/courses/100-days-python/day2.php'">Next>></button>
 			</div>
