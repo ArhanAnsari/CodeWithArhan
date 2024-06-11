@@ -6,18 +6,19 @@
   <meta name="viewport" content="width=device-width">
   <title>CodeWithArhan</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
-	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
 </head>
 
 <body>
-	<script src="typing.js"></script>
+  <script src="typing.js"></script>
   <main>
     <nav>
       <div class="nav-inner">
         <div class="left">
-          <div class="logo"></div>
-
-          <p class="name">CodeWithArhan</p>
+          <div class="logo"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCph8XWRdGgaQ6KIDAa39hhpsmHoPk-M3jiQx8SASeegAcqYFXeMQez2K0&s=10" class="logo"></div>
+          <div class="name">CodeWithArhan</div>
+        </div>
+        <div class="right">
 
           <a href="/index.php">Home</a>
 
@@ -31,12 +32,6 @@
 
           <a href="/contact.php">Contact Us</a>
         </div>
-
-        <div class="right">
-          <button onclick="location.href='/login.php'">Log In</button>
-
-          <button class="cta" onclick="location.href='/signup.php'">Sign Up</button>
-        </div>
       </div>
     </nav>
 
@@ -45,13 +40,13 @@
         <h1>Welcome to CodeWithArhan</h1>
 
         <h4>Learn 
-	<span
-	class="txt-rotate"
-	data-period="2000"
-	data-rotate="[&quot;Full Stack Web Development&quot;,&quot;Programming Languages&quot;,&quot;Machine Learning and Artificial Intelligence &quot;,&quot;Data Science&quot;,&quot;Cyber Security and Ethical Hacking&quot;,&quot;DSA&quot;,&quot;Operationg Systems&quot;]"
-	>
-	</span></h4>
-	<p>Confused on which course to take? I have got you covered. Browse courses and find out the best course for you. Its free! Code With Arhan is my attempt to teach basics and those coding techniques to people in short time which took me ages to learn.</p>
+  <span
+  class="txt-rotate"
+  data-period="2000"
+  data-rotate="[&quot;Full Stack Web Development&quot;,&quot;Programming Languages&quot;,&quot;Machine Learning and Artificial Intelligence &quot;,&quot;Data Science&quot;,&quot;Cyber Security and Ethical Hacking&quot;,&quot;DSA&quot;,&quot;Operationg Systems&quot;]"
+  >
+  </span></h4>
+  <p>Confused on which course to take? I have got you covered. Browse courses and find out the best course for you. Its free! Code With Arhan is my attempt to teach basics and those coding techniques to people in short time which took me ages to learn.</p>
       </div>
 
       <div class="buttons" onclick="location.href='/blog.php'">
@@ -61,7 +56,7 @@
       </div>
     </section>
 
-   
+
 
     <section class="call-to-action">
       <div class="callout-container">
@@ -81,13 +76,13 @@
       <div class="inner">
         <div class="column">
 
-          <div class="logo">
-          </div>
+          <div class="logo"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCph8XWRdGgaQ6KIDAa39hhpsmHoPk-M3jiQx8SASeegAcqYFXeMQez2K0&s=10" class="logo"></div>
 
           <p class="name">CodeWithArhan</p>
         </div>
         <div class="column">
           <p>Handy links</p>
+          <a href="/index.php">Home</a>
 
           <a href="/blog.php">Blog</a>
 
@@ -98,6 +93,9 @@
           <a href="/tutorials.php">Tutorials</a>
 
           <a href="/about.php">About</a>
+
+          <p>&copy; <?php echo date("Y"); ?> CodeWithArhan. All rights reserved.</p>
+
         </div>
 
       </div>

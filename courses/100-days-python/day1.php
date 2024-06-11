@@ -15,17 +15,17 @@
 		<nav>
 			<div class="nav-inner">
 				<div class="left">
-					<div class="logo"></div>
+					<div class="logo"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCph8XWRdGgaQ6KIDAa39hhpsmHoPk-M3jiQx8SASeegAcqYFXeMQez2K0&s=10" class="logo"></div>
 
 					<p class="name">CodeWithArhan</p>
 
-					<a href="/blog.html">Blog</a>
+					<a href="/blog.php">Blog</a>
 
-					<a href="/courses.html">Courses</a>
+					<a href="/courses.php">Courses</a>
 
-					<a href="/tutorials.html">Tutorials</a>
+					<a href="/tutorials.php">Tutorials</a>
 
-					<a href="/about.html">About</a>
+					<a href="/about.php">About</a>
 				</div>
 
 				<div class="right">
@@ -157,6 +157,31 @@
 			</div>
 		</section>
 	</main>
+    <footer>
+	<div class="inner">
+	    <div class="column">
+		<div class="logo"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCph8XWRdGgaQ6KIDAa39hhpsmHoPk-M3jiQx8SASeegAcqYFXeMQez2K0&s=10" class="logo"></div>
+		<div class="name">CodeWithArhan</div>
+	    </div>
+	    <div class="column">
+	  <p>Handy links</p>
+	  <a href="/index.php">Home</a>
+
+	  <a href="/blog.php">Blog</a>
+
+	  <a href="/courses.php">Courses</a>
+
+	  <a href="/about.php">About</a>
+
+	  <a href="/tutorials.php">Tutorials</a>
+
+	  <a href="/about.php">About</a>
+
+	  <p>&copy; <?php echo date("Y"); ?> CodeWithArhan. All rights reserved.</p>
+
+	</div>
+	</div>
+    </footer>
 </body>
 
 </html>

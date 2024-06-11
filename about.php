@@ -30,13 +30,15 @@ $values = [
     <nav>
         <div class="nav-inner">
             <div class="left">
-                <div class="logo"></div>
+                <div class="logo"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCph8XWRdGgaQ6KIDAa39hhpsmHoPk-M3jiQx8SASeegAcqYFXeMQez2K0&s=10" class="logo"></div>
                 <div class="name">CodeWithArhan</div>
             </div>
             <div class="right">
                 <a href="/index.php">Home</a>
                 <a href="/about.php">About</a>
                 <a href="/blog.php">Blog</a>
+                <a href="/courses.php">Courses</a>
+                <a href="/tutorials.php">Tutorials</a>
                 <a href="/contact.php">Contact</a>
             </div>
         </div>
@@ -79,12 +81,26 @@ $values = [
     <footer>
         <div class="inner">
             <div class="column">
-                <div class="logo"></div>
+                <div class="logo"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCph8XWRdGgaQ6KIDAa39hhpsmHoPk-M3jiQx8SASeegAcqYFXeMQez2K0&s=10" class="logo"></div>
                 <div class="name">CodeWithArhan</div>
             </div>
             <div class="column">
-                <p>&copy; <?php echo date("Y"); ?> CodeWithArhan. All rights reserved.</p>
-            </div>
+          <p>Handy links</p>
+          <a href="/index.php">Home</a>
+
+          <a href="/blog.php">Blog</a>
+
+          <a href="/courses.php">Courses</a>
+
+          <a href="/about.php">About</a>
+
+          <a href="/tutorials.php">Tutorials</a>
+
+          <a href="/about.php">About</a>
+
+          <p>&copy; <?php echo date("Y"); ?> CodeWithArhan. All rights reserved.</p>
+
+        </div>
         </div>
     </footer>
 </body>

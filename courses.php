@@ -36,7 +36,7 @@ $courses = [
     <nav>
         <div class="nav-inner">
             <div class="left">
-                <div class="logo"></div>
+                <div class="logo"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCph8XWRdGgaQ6KIDAa39hhpsmHoPk-M3jiQx8SASeegAcqYFXeMQez2K0&s=10" class="logo"></div>
                 <div class="name">CodeWithArhan</div>
             </div>
             <div class="right">
@@ -73,7 +73,7 @@ $courses = [
     <footer>
         <div class="inner">
             <div class="column">
-                <div class="logo"></div>
+                <div class="logo"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCph8XWRdGgaQ6KIDAa39hhpsmHoPk-M3jiQx8SASeegAcqYFXeMQez2K0&s=10" class="logo"></div>
                 <div class="name">CodeWithArhan</div>
             </div>
             <div class="column">
