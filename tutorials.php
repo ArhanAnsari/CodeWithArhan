@@ -4,6 +4,12 @@
 // Define some sample tutorials
 $tutorials = [
     [
+        "title" => "Writing Hello World in Node.js",
+        "author" => "Arhan Ansari",
+        "description" => "A beginner tutorial to help you to write Hello World in Node.js.",
+        "link" => "/tutorials/nodehello.php"
+    ],
+    [
         "title" => "Getting Started with Python",
         "author" => "Arhan Ansari",
         "description" => "An introductory tutorial to get you started with Python programming.",
