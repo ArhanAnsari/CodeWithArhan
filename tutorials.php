@@ -10,10 +10,10 @@ $tutorials = [
         "link" => "/tutorials/nodehello.php"
     ],
     [
-        "title" => "Getting Started with Python",
+        "title" => "Hello World in Python",
         "author" => "Arhan Ansari",
-        "description" => "An introductory tutorial to get you started with Python programming.",
-        "link" => "#"
+        "description" => "A beginner tutorial to help you to write Hello World in Python.",
+        "link" => "/tutorials/pyhello.php"
     ],
     [
         "title" => "Understanding JavaScript Promises",

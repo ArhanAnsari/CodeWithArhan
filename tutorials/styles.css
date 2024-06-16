@@ -420,3 +420,44 @@ footer .column p {
 .content-container code {
   color: var(--accent-3);
 }
+
+.tutorial-content {
+  padding: 32px;
+  background: var(--background-2);
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.content-container h2,
+.content-container h3 {
+  color: var(--foreground-1);
+}
+
+.content-container p {
+  color: var(--foreground-2);
+}
+
+.content-container ol {
+  list-style: decimal inside;
+  color: var(--foreground-1);
+}
+
+.content-container pre {
+  background: var(--background-3);
+  padding: 16px;
+  border-radius: 8px;
+  overflow-x: auto;
+  color: var(--foreground-1);
+}
+
+.content-container code {
+  color: var(--accent-3);
+}
