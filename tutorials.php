@@ -19,7 +19,7 @@ $tutorials = [
         "title" => "Understanding JavaScript Promises",
         "author" => "Arhan Ansari",
         "description" => "A comprehensive guide to understanding and using JavaScript promises.",
-        "link" => "#"
+        "link" => "/tutorials/jspromises.php"
     ],
     [
         "title" => "CSS Grid Layout Tutorial",
