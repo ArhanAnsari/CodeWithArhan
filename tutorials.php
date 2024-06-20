@@ -25,7 +25,7 @@ $tutorials = [
         "title" => "CSS Grid Layout Tutorial",
         "author" => "Arhan Ansari",
         "description" => "Learn how to create complex layouts easily with CSS Grid.",
-        "link" => "#"
+        "link" => "/tutorials/cssgrid.php"
     ]
 ];
 
