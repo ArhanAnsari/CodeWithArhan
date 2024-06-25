@@ -26,6 +26,30 @@ $tutorials = [
         "author" => "Arhan Ansari",
         "description" => "Learn how to create complex layouts easily with CSS Grid.",
         "link" => "/tutorials/cssgrid.php"
+    ],
+    [
+        "title" => "HTML5 Semantics",
+        "author" => "Arhan Ansari",
+        "description" => "Understand the semantic elements introduced in HTML5.",
+        "link" => "/tutorials/html5semantics.php"
+    ],
+    [
+        "title" => "Responsive Web Design Principles",
+        "author" => "Arhan Ansari",
+        "description" => "Learn the principles of responsive web design.",
+        "link" => "/tutorials/responsiveweb.php"
+    ],
+    [
+        "title" => "Introduction to jQuery",
+        "author" => "Arhan Ansari",
+        "description" => "Explore the basics of jQuery library for DOM manipulation.",
+        "link" => "/tutorials/jqueryintro.php"
+    ],
+    [
+        "title" => "Building Responsive Layouts with Bootstrap",
+        "author" => "Arhan Ansari",
+        "description" => "Learn how to use Bootstrap framework for responsive web design.",
+        "link" => "/tutorials/bootstraplayout.php"
     ]
 ];
 
