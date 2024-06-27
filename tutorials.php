@@ -50,6 +50,12 @@ $tutorials = [
         "author" => "Arhan Ansari",
         "description" => "Learn how to use Bootstrap framework for responsive web design.",
         "link" => "/tutorials/bootstraplayout.php"
+    ],
+    [
+        "title" => "Building Your First Website with HTML and CSS - A Beginner's Guide",
+        "author" => "Arhan Ansari",
+        "description" => "",
+        "link" => "/tutorials/first-website-guide.php"
     ]
 ];
 
